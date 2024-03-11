@@ -23,5 +23,5 @@ Ready to experience the next level of development efficiency? Contact us to expl
 Empower your projects, accelerate your development – choose BSH Code Generator!
 
 ## List Of Generated Prjects: 
-[Spring Blog System](https://github.com/bshg-projects/blogs-system-generated)
-[library management system](https://github.com/bshg-projects/library-management-system-generated)
+[Spring Blog System](https://github.com/bshg-projects/blogs-system-generated)<br/>
+[library management system](https://github.com/bshg-projects/library-management-system-generated)<br/>
