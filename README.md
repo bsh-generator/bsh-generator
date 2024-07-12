@@ -19,9 +19,3 @@ Ready to experience the next level of development efficiency? Contact us to expl
 - **Instagram:** [@bsh.generator](https://www.instagram.com/bsh.generator/)
 - **LinkedIn:** [bsh.g code generator](https://www.linkedin.com/in/bsh-g-code-generator-b917412a1/)
 - **Email:** [bsh.generator@gmail.com](mailto:bsh.generator@gmail.com)
-
-Empower your projects, accelerate your development – choose BSH Code Generator!
-
-## List Of Generated Prjects: 
-[Spring Blog System](https://github.com/bshg-projects/blogs-system-generated)<br/>
-[library management system](https://github.com/bshg-projects/library-management-system-generated)<br/>
