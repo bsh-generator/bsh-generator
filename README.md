@@ -1,16 +1,13 @@
 # BSH Code Generator
 
-[BSH Code Generator](https://github.com/bsh-generator) is a code generation tool designed to streamline the development of Spring-based applications. It generates a structured project with predefined entities, repositories, services, controllers, and other components, allowing developers to focus on business logic rather than boilerplate code.
+[BSH Code Generator](https://github.com/bsh-generator) is a code generation tool designed to streamline the development of your applications. It generates a structured project with predefined entities, repositories, services, controllers, and more, allowing developers to focus on business logic rather than boilerplate code.<be>
 
-## Why Choose BSH Code Generator?
-
-- **Accelerated Development:** Save valuable time and effort with our automated code generation, providing a robust scaffold for your Spring-based applications.
-
-- **Structured Project Setup:** Enjoy a well-organized project structure with predefined entities, repositories, services, controllers, and other essential components.
-
-- **Streamlined Workflow:** Eliminate the hassle of repetitive tasks and coding routines, allowing you to concentrate on building features that matter.
-
-- **Role-Based Access Control (RBAC):** Our system incorporates a secure RBAC approach, ensuring that user roles have precisely defined permissions, enhancing overall system security.
+## Supported Technologies
+We are now supporting different technologies:
+- Spring Boot
+- Angular
+- ReactJs
+- more are coming soon...
 
 ## Connect with Us!
 
