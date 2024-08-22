@@ -16,3 +16,7 @@ Ready to experience the next level of development efficiency? Contact us to expl
 - **Instagram:** [@bsh.generator](https://www.instagram.com/bsh.generator/)
 - **LinkedIn:** [bsh.g code generator](https://www.linkedin.com/in/bsh-g-code-generator-b917412a1/)
 - **Email:** [bsh.generator@gmail.com](mailto:bsh.generator@gmail.com)
+
+### Author: Bousalih Hamza
+- [on GitHub](https://github.com/hamza-bousalih)
+- [on linkedin](https://www.linkedin.com/in/hamza-bousalih-5716b2295)
